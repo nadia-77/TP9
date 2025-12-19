@@ -1,8 +1,10 @@
 exercice 1 :
+
 <img width="430" height="149" alt="Ex1" src="https://github.com/user-attachments/assets/aaa90cc8-1dbb-4f6c-ba02-51383804339c" />
 
 
 exercice 2 :
+
 
 <img width="1099" height="1237" alt="ex2" src="https://github.com/user-attachments/assets/4f9edcfb-fcbe-48bf-a923-b35f6de9bace" />
 

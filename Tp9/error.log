@@ -1,0 +1,2 @@
+Erreur validation (User[nom=, age=25]):Nom d'utilisateur invalide
+Erreur validation (User[nom=Bob, age=16]):Utilisateur mineur (âge=16)
